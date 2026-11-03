@@ -1,0 +1,1 @@
+print("ini percobaan tugas 3nov");
